@@ -4,8 +4,8 @@
 * There should be four spaces:
     1. GitHub, full screen, with almanac repo selected
     2. Safari, not full screen, on Instapaper and any associated tabs
-    3. Split down the middle, with Downloads folder on the left, and almanac project folder on the right
-    4. Split into two, with iBooks as narrow as possible on the right, and Downloads folder with no sidebar on the left
+    3. Split down the middle, not full screen, with Downloads folder on the left, and almanac project folder on the right
+    4. Split into two, not full screen, with iBooks as narrow as possible on the right, and Downloads folder with no sidebar on the left
 
 # Process
 * Open each of the articles in Instapaper in a new tab in turn
