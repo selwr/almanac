@@ -2,11 +2,11 @@
 
 # Layout of windows
 * There should be two spaces:
-    1. Safari, not full screen, on Instapaper and any associated tabs
-    2. Split down the middle, not full screen, with Downloads folder on the left, and almanac project folder on the right
+    1. Safari on Instapaper and any associated tabs
+    2. Split down the middle with Downloads folder on the left, and Almanac on the right
 
 # Process
 * Open each of the articles in Instapaper in a new tab in turn
-* Determine interest, and download if required; can check if paper/topic already in Almanac by searching for it
+* Determine interest, and download if desired; can check if paper/topic already in Almanac by searching for it
 * Go to screen 2, rename download and drag to appropriate subject folder in Almanac
 * Repeat for all articles in Instapaper
