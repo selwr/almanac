@@ -1,16 +1,12 @@
-## Workflow for importing documents to Almanac in iBooks
+## Workflow for importing documents to Almanac
 
 # Layout of windows
-* There should be four spaces:
-    1. GitHub, full screen, with almanac repo selected
-    2. Safari, not full screen, on Instapaper and any associated tabs
-    3. Split down the middle, not full screen, with Downloads folder on the left, and almanac project folder on the right
-    4. Split into two, not full screen, with iBooks as narrow as possible on the right, and Downloads folder with no sidebar on the left
+* There should be two spaces:
+    1. Safari, not full screen, on Instapaper and any associated tabs
+    2. Split down the middle, not full screen, with Downloads folder on the left, and almanac project folder on the right
 
 # Process
 * Open each of the articles in Instapaper in a new tab in turn
-* Determine interest, and download if required; can check if paper/topic already in iBooks by searching for it in iBooks
-* Go to screen 3, rename download and drag to appropriate subject folder in almanac project folder
+* Determine interest, and download if required; can check if paper/topic already in Almanac by searching for it
+* Go to screen 2, rename download and drag to appropriate subject folder in Almanac
 * Repeat for all articles in Instapaper
-* Once done, on screen 4, switch left pane to almanac project folders and, in turn, open each of the subject folders and drag all of the papers into the appropriate collection in iBooks
-* Once done, check GitHub to ensure no local changes include unaccounted-for PDF files
